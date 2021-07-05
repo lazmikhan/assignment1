@@ -76,3 +76,20 @@ margin-right: 300px;}
     
     
 }
+.write{
+    margin-top: 200px;
+    margin-right: 200px;
+    margin-left: 200px;
+    width: 100%;
+}
+#colour{
+
+    color: hotpink;
+}
+#decoration{
+    text-align: center;
+    margin-top: 200px;
+    color: ivory;
+    background-color: gray;
+    padding: 5%;
+}
